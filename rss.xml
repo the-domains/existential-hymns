@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Existential Hymns]]></title>
         <description><![CDATA[Existential Hymns]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/existential-hymns/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 17:52:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 14 Jun 2016 17:55:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/existential-hymns/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfdfd221-08e7-42aa-b37b-aafdf63a738c.jpg">]]></description>
+            <link>https://thegrid.ai/existential-hymns/a1c09387-2fab-4ed5-a551-0db42d6f017f/index.html</link>
+            <guid isPermaLink="false">a1c09387-2fab-4ed5-a551-0db42d6f017f</guid>
+            <pubDate>Tue, 14 Jun 2016 17:54:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello!</p>]]></description>
-            <link>undefinedhello/index.html</link>
+            <link>https://thegrid.ai/existential-hymns/hello/index.html</link>
             <guid isPermaLink="false">b3e7e95d-3ba6-43af-8ac5-78228dce8a5d</guid>
             <pubDate>Tue, 14 Jun 2016 17:52:46 GMT</pubDate>
         </item>
