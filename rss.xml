@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Existential Hymns]]></title>
         <description><![CDATA[Existential Hymns]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/existential-hymns/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 23:28:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Aug 2016 23:30:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/existential-hymns/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d0c2455-302b-4a00-b036-a99d4f5a7672.jpg">]]></description>
-            <link>undefined0457219b-a781-4a4d-a240-d320dead1656/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d4731f2-5bb9-4b88-ad80-5c5da044c161.jpg">]]></description>
+            <link>https://thegrid.ai/existential-hymns/0457219b-a781-4a4d-a240-d320dead1656/index.html</link>
             <guid isPermaLink="false">0457219b-a781-4a4d-a240-d320dead1656</guid>
-            <pubDate>Sun, 14 Aug 2016 23:28:16 GMT</pubDate>
+            <pubDate>Sun, 14 Aug 2016 23:29:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
